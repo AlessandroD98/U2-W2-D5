@@ -83,8 +83,8 @@ console.log("------ESERCIZIO6-----");
 
 for (let i = 0; i < cars.length; i++) {
   cars[i].trims.shift();
-  console.log(cars);
 }
+console.log(cars);
 
 // /* ESERCIZIO 7
 //     Scrivi del codice per salvare il primo elemento della proprietà "trims" di ogni auto nel nuovo array "justTrims", sotto definito.
